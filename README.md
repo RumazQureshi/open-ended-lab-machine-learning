@@ -1,4 +1,4 @@
-# 🏠 House Price & Category Prediction (Open-Ended ML Lab)
+#  House Price & Category Prediction (Open-Ended ML Lab)
 
 **Student:** Rumaz Naveed Qureshi  
 **Roll No:** (22F-BSAI-52)  
